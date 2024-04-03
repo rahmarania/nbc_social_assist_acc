@@ -1,0 +1,176 @@
+jk,usia,status_perkawinan,punya_anak,jml_anak,pendidikan,apkh_bekerja,pekerjaan,punya_usaha,pendapatan,menerima_bantuan,jenis_bantuan,akses_ke_fasilitas,akses_toilet,air_bersih
+Laki-laki,39,Menikah,Ya,2,SMA,Ya,Kepala Desa,Tidak,1.500.000 - 3.000.000,Tidak,,Sepeda motor,Ya,Cukup baik
+Laki-laki,39,Menikah,Tidak,0,Diploma,Ya,Perangkat Desa,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda motor,Ya,Cukup baik
+Laki-laki,42,Menikah,Ya,3,Sarjana,Ya,Sekretaris Desa,Tidak,4.500.000 ke atas,Tidak,,Mobil,Ya,Tidak cukup baik
+Laki-laki,56,Menikah,Ya,3,SMA,Ya,Perangkat Desa,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda motor,Ya,Tidak cukup baik
+Laki-laki,36,Menikah,Tidak,0,Diploma,Ya,Perangkat Desa,Ya,3.000.000 - 4.500.000,Tidak,,Sepeda motor,Ya,Cukup baik
+Perempuan,29,Menikah,Ya,1,SMA,Tidak,Tidak Bekerja,Tidak,1.500.000 - 3.000.000,Ya,BPNT,Sepeda motor,Tidak,Cukup baik
+Perempuan,49,Menikah,Ya,1,SD,Ya,Pedagang,Ya,Lainnya,Ya,Beras,NA,Ya,Baik
+Laki-laki,30,Menikah,Tidak,0,SMA,Ya,Security,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda motor,Tidak,Tidak ada
+Laki-laki,44,Menikah,Ya,2,SMA,Ya,Pedagang,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda motor,Tidak,Tidak cukup baik
+Perempuan,50,Menikah,Ya,2,SMA,Ya,Petani,Ya,3.000.000 - 4.500.000,Tidak,,Sepeda motor,Ya,Baik
+Laki-laki,61,Menikah,Ya,3,SMA,Ya,Peternak,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda motor,Tidak,Cukup baik
+Laki-laki,52,Menikah,Ya,2,Sarjana,Ya,Guru,Ya,1.500.000 - 3.000.000,Tidak,,Mobil,Ya,Tidak cukup baik
+Perempuan,32,Menikah,Tidak,0,SMP,Tidak,Tidak Bekerja,Ya,500.000 - 1.500.000,Tidak,,Sepeda motor,Tidak,Baik
+Perempuan,27,Menikah,Ya,1,SMP,Tidak,Tidak Bekerja,Ya,1.500.000 - 3.000.000,Ya,,Sepeda motor,Tidak,Baik
+Perempuan,27,Menikah,Ya,1,SMP,Tidak,Tidak Bekerja,Tidak,500.000 - 1.500.000,Tidak,,Sepeda,Tidak,Baik
+Perempuan,38,Menikah,Ya,2,SMP,Ya,Pedagang,Ya,1.500.000 - 3.000.000,Ya,Beras dan uang,Jalan kaki,Ya,Cukup baik
+Perempuan,56,Menikah,Ya,2,SMP,Tidak,Tidak Bekerja,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda motor,Ya,Baik
+Laki-laki,43,Menikah,Ya,1,SMA,Ya,Perangkat Desa,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda motor,Tidak,Cukup baik
+Laki-laki,50,Menikah,Ya,2,SMP,Ya,Perangkat Desa,Ya,1.500.000 - 3.000.000,Tidak,,Mobil,Tidak,Cukup baik
+Perempuan,58,Menikah,Ya,2,SMA,Ya,Perangkat Desa,Tidak,1.500.000 - 3.000.000,Tidak,,Mobil,Tidak,Baik
+Perempuan,43,Menikah,Ya,2,Sarjana,Ya,Perangkat Desa,Ya,3.000.000 - 4.500.000,Tidak,,Sepeda motor,Ya,Tidak ada
+Laki-laki,50,Menikah,Ya,3,SMA,Ya,Perangkat Desa,Ya,1.500.000 - 3.000.000,Tidak,,Mobil,Tidak,Baik
+Laki-laki,28,Menikah,Ya,2,SMA,Ya,Perangkat Desa,Tidak,1.500.000 - 3.000.000,Tidak,,Sepeda motor,Ya,Baik
+Perempuan,52,Menikah,Ya,2,Sarjana,Ya,Kepala Sekolah,Tidak,1.500.000 - 3.000.000,Tidak,,Mobil,Ya,Tidak cukup baik
+Perempuan,36,Menikah,Ya,2,SMA,Tidak,Tidak Bekerja,Ya,3.000.000 - 4.500.000,Tidak,,Sepeda motor,Tidak,Baik
+Laki-laki,59,Menikah,Ya,2,SMP,Ya,Kepala desa,Ya,1.500.000 - 3.000.000,Tidak,-,Angkutan Umum,Tidak,Baik
+Laki-laki,49,Menikah,Ya,2,SMA,Ya,Perangkat desa,Ya,3.000.000 - 4.500.000,Ya,Bantuan sumber (polres) UMKM,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,45,Menikah,Ya,4,SMA,Ya,Perangkat desa,Ya,1.500.000 - 3.000.000,Tidak,-,Mobil,Tidak,Baik
+Perempuan,30,Menikah,Ya,2,SMA,Ya,Perangkat desa,Ya,1.500.000 - 3.000.000,Tidak,-,Sepeda Motor,Tidak,Baik
+Laki-laki,34,Menikah,Ya,2,SMA,Ya,Perangkat desa,Tidak,1.500.000 - 3.000.000,Tidak,-,Sepeda Motor,Tidak,Baik
+Perempuan,41,Menikah,Tidak,0,SMA,Ya,Ibu Rumah Tangga,Tidak,Lainnya,Tidak,-,Sepeda Motor,Tidak,Baik
+Perempuan,32,Menikah,Tidak,0,SMA,Ya,Ibu Rumah Tangga,Tidak,Lainnya,Tidak,-,Sepeda Motor,Tidak,Baik
+Perempuan,33,Menikah,Tidak,0,SMA,Ya,Ibu Rumah Tangga,Tidak,Lainnya,Tidak,-,Sepeda Motor,Tidak,Baik
+Perempuan,37,Menikah,Ya,2,SMA,Tidak,Tidak Bekerja,Tidak,1.500.000 - 3.000.000,Tidak,-,Angkutan Umum,Tidak,Cukup baik
+Perempuan,35,Menikah,Ya,2,SMA,Tidak,Tidak Bekerja,Tidak,Lainnya,Tidak,-,Angkutan Umum,Tidak,Baik
+Laki-laki,39,Menikah,Ya,2,SMP,Ya,Jual beli,Ya,500.000 - 1.500.000,Tidak,-,Jalan Kaki,Ya,Baik
+Laki-laki,38,Menikah,Ya,2,SMA,Tidak,Tidak Bekerja,Tidak,Lainnya,Ya,Bantuan pangan,Jalan Kaki,Ya,Baik
+Laki-laki,54,Menikah,Ya,2,SD,Ya,Petani,Ya,500.000 - 1.500.000,Tidak,,Sepeda Motor,Tidak,Baik
+Perempuan,27,Menikah,Ya,2,SD,Ya,Wiraswasta,Ya,500.000 - 1.500.000,Tidak,,Jalan Kaki,Tidak,Cukup baik
+Perempuan,17,Belum Menikah,Tidak,0,SMA,Tidak,Tidak Bekerja,Ya,Lainnya,Tidak,,Sepeda Motor,Tidak,Cukup baik
+Laki-laki,37,Menikah,Ya,2,SD,Ya,Pedagang,Ya,500.000 - 1.500.000,Tidak,-,Jalan Kaki,Ya,Cukup baik
+Laki-laki,30,Belum Menikah,Tidak,0,Tidak Lulus SD,Tidak,Tidak Bekerja,Tidak,500.000 - 1.500.000,Ya,-,Sepeda Motor,Tidak,Baik
+Perempuan,54,Menikah,Ya,2,SD,Ya,"Produksi gula aren, petani, ibu rumah tangga",Ya,1.500.000 - 3.000.000,Tidak,,Angkutan Umum,Ya,Baik
+Laki-laki,38,Menikah,Ya,2,SD,Ya,Petani,Tidak,500.000 - 1.500.000,Tidak,,Jalan Kaki,Ya,Cukup baik
+Laki-laki,35,Menikah,Ya,2,SMP,Tidak,Tidak Bekerja,Tidak,500.000 - 1.500.000,Tidak,,Jalan Kaki,Tidak,Cukup baik
+Perempuan,33,Menikah,Ya,3,SMA,Tidak,Tidak Bekerja,Tidak,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Tidak,Baik
+Laki-laki,27,Belum Menikah,Tidak,0,SMA,Tidak,Tidak Bekerja,Ya,500.000 - 1.500.000,Tidak,,Sepeda Motor,Tidak,Cukup baik
+Laki-laki,31,Menikah,Ya,1,SMA,Ya,Peternakan,Tidak,500.000 - 1.500.000,Tidak,,Sepeda Motor,Ya,Cukup baik
+Perempuan,31,Menikah,Ya,2,SMP,Tidak,Tidak Bekerja,Tidak,1.500.000 - 3.000.000,Tidak,,Jalan Kaki,Tidak,Baik
+Laki-laki,30,Menikah,Ya,1,SMP,Ya,Petani,Tidak,500.000 - 1.500.000,Tidak,,Sepeda Motor,Ya,Cukup baik
+Laki-laki,56,Menikah,Ya,8,SMA,Ya,Kepala desa,Ya,4.500.000 ke atas,Tidak,,Mobil,Tidak,Cukup baik
+Laki-laki,49,Menikah,Ya,7,SMA,Ya,"Wirausaha, ternak ikan, dan buruh harial lepas",Ya,4.500.000 ke atas,Ya,PKH,Angkutan Umum,Tidak,Baik
+Laki-laki,43,Menikah,Ya,8,SD,Ya,Berdagang,Ya,1.500.000 - 3.000.000,Tidak,,Mobil,Tidak,Tidak cukup baik
+Perempuan,36,Menikah,Ya,2,SMP,Tidak,Ibu Rumah Tangga,Tidak,1.500.000 - 3.000.000,Ya,BNPT,Angkutan Umum,Tidak,Baik
+Perempuan,29,Duda/Janda,Ya,4,SD,Ya,Berjualan online,Ya,1.500.000 - 3.000.000,Ya,PKH,Angkutan Umum,Ya,Baik
+Laki-laki,24,Belum Menikah,Tidak,0,SMA,Ya,Wirausaha,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Ya,Tidak ada
+Laki-laki,37,Menikah,Ya,3,SMP,Ya,Ternak ikan,Ya,3.000.000 - 4.500.000,Ya,Sembako,Sepeda Motor,Ya,Tidak ada
+Laki-laki,31,Menikah,Ya,1,SMP,Ya,Petani,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Ya,Tidak ada
+Perempuan,46,Menikah,Ya,3,SMA,Tidak,Ibu Rumah Tangga,Ya,4.500.000 ke atas,Tidak,,Sepeda Motor,Tidak,Baik
+Perempuan,43,Menikah,Ya,3,SMA,Ya,"Berjualan mie ayam, Ternak ayam petelur",Ya,3.000.000 - 4.500.000,Ya,BNPT,Angkutan Umum,Tidak,Cukup baik
+Laki-laki,52,Duda/Janda,Ya,2,SMA,Ya,Buruh harian lepas,Ya,4.500.000 ke atas,Tidak,,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,18,Belum Menikah,Tidak,0,SMA,Ya,Penjaga toko,Ya,3.000.000 - 4.500.000,Tidak,,Sepeda Motor,Tidak,Tidak cukup baik
+Laki-laki,55,Menikah,Ya,3,SD,Ya,Buruh tani,Tidak,1.500.000 - 3.000.000,Ya,"PNT, BNPT, PKH",Sepeda Motor,Ya,Baik
+Perempuan,50,Menikah,Ya,4,SMP,Tidak,Ibu Rumah Tangga,Tidak,3.000.000 - 4.500.000,Ya,PKH,Sepeda Motor,Tidak,Baik
+Laki-laki,43,Menikah,Ya,3,SMA,Ya,Staf desa,Ya,3.000.000 - 4.500.000,Tidak,,Sepeda Motor,Ya,Tidak cukup baik
+Perempuan,47,Menikah,Ya,2,SD,Ya,Berjualan bakso,Ya,1.500.000 - 3.000.000,Tidak,,Angkutan Umum,Ya,Baik
+Perempuan,40,Menikah,Ya,3,SD,Tidak,Ibu Rumah Tangga,Tidak,1.500.000 - 3.000.000,Ya,PKH,Sepeda Motor,Ya,Baik
+Perempuan,43,Menikah,Ya,3,SMP,Ya,Warung,Ya,4.500.000 ke atas,Tidak,,Sepeda Motor,Tidak,Baik
+Laki-laki,36,Menikah,Ya,2,SMA,Ya,Staf desa,Ya,3.000.000 - 4.500.000,Ya,Bansos,Sepeda Motor,Ya,Cukup baik
+Perempuan,27,Menikah,Ya,1,Sarjana,Ya,Perangkat desa,Ya,4.500.000 ke atas,Tidak,,Sepeda Motor,Tidak,Baik
+Laki-laki,39,Menikah,Ya,3,SMA,Ya,Staf desa,Tidak,3.000.000 - 4.500.000,Tidak,,Sepeda Motor,Ya,Cukup baik
+Laki-laki,60,Menikah,Ya,1,SMP,Ya,Berdagang,Ya,3.000.000 - 4.500.000,Tidak,,Sepeda Motor,Tidak,Baik
+Laki-laki,58,Menikah,Ya,4,SMP,Tidak,Tidak Bekerja,Ya,3.000.000 - 4.500.000,Ya,KIP,Angkutan Umum,Tidak,Tidak ada
+Laki-laki,50,Duda/Janda,Ya,1,SD,Ya,"Ketua RT 01/03, Buruh harian lepas",Tidak,500.000 - 1.500.000,Tidak,,Sepeda Motor,Ya,Cukup baik
+Laki-laki,74,Menikah,Ya,4,SD,Tidak,Tidak Bekerja,Ya,4.500.000 ke atas,Tidak,,Angkutan Umum,Tidak,Cukup baik
+Laki-laki,55,Menikah,Ya,6,SD,Ya,Pemilik warung,Ya,500.000 - 1.500.000,Ya,Bantuan PKH,Sepeda Motor,Tidak,Baik
+Perempuan,54,Belum Menikah,Tidak,0,SD,Ya,Usaha tambak ikan,Ya,4.500.000 ke atas,Ya,Bantuan beras,Sepeda Motor,Ya,Baik
+Laki-laki,40,Belum Menikah,Tidak,0,SD,Ya,Pemilik warung,Ya,1.500.000 - 3.000.000,Tidak,Tidak ada,Sepeda Motor,Tidak,Baik
+Laki-laki,32,Belum Menikah,Tidak,0,SMA,Tidak,Ibu Rumah Tangga,Tidak,500.000 - 1.500.000,Ya,BLT,Sepeda Motor,Ya,Baik
+Laki-laki,32,Belum Menikah,Tidak,0,SMA,Tidak,Ibu Rumah Tangga,Tidak,1.500.000 - 3.000.000,Tidak,Tidak ada,Sepeda Motor,Tidak,Baik
+Laki-laki,47,Belum Menikah,Tidak,0,SMA,Ya,Pemilik warung,Ya,1.500.000 - 3.000.000,Ya,Bantuan beras per 3 bulan,Mobil,Tidak,Baik
+Perempuan,57,Belum Menikah,Tidak,0,SMA,Ya,Penjual bahan material,Ya,3.000.000 - 4.500.000,Ya,Bantuan beras per 3 bulan,Mobil,Tidak,Baik
+Perempuan,42,Belum Menikah,Tidak,0,SD,Ya,Mengurus kandang ayam,Ya,1.500.000 - 3.000.000,Ya,Bantuan beras per bulan,Sepeda Motor,Ya,Tidak cukup baik
+Perempuan,43,Belum Menikah,Tidak,0,SMP,Ya,Staf desa,Ya,1.500.000 - 3.000.000,Ya,Bantuan beras per bulan,Sepeda Motor,Ya,Cukup baik
+Perempuan,43,Belum Menikah,Tidak,0,SD,Ya,Tukang Bubur,Ya,1.500.000 - 3.000.000,Ya,Bantuan beras per bulan,Sepeda Motor,Ya,Cukup baik
+Laki-laki,32,Belum Menikah,Tidak,0,SMA,Tidak,Ibu Rumah Tangga,Ya,1.500.000 - 3.000.000,Ya,Bantuan beras per bulan,Jalan Kaki,Ya,Tidak cukup baik
+Laki-laki,43,Belum Menikah,Tidak,0,SD,Ya,Pedagang,Ya,500.000 - 1.500.000,Tidak,Tidak ada,Mobil,Ya,Tidak cukup baik
+Laki-laki,32,Belum Menikah,Tidak,0,SD,Ya,Usaha RM Padang,Ya,500.000 - 1.500.000,Tidak,Tidak ada,Mobil,Ya,Tidak cukup baik
+Perempuan,45,Belum Menikah,Tidak,0,SD,Ya,Mengambil pasir di sungai,Ya,1.500.000 - 3.000.000,Ya,Bantuan beras per bulan,Sepeda Motor,Ya,Baik
+Laki-laki,53,Duda/Janda,Ya,4,SD,Ya,Home industri kue kering,Ya,1.500.000 - 3.000.000,Ya,Bantuan UMKM,Lainnya,Tidak,Tidak cukup baik
+Perempuan,67,Belum Menikah,Tidak,0,SD,Ya,Petani,Ya,1.500.000 - 3.000.000,Ya,"Beras,uang,telor",Sepeda Motor,Tidak,Cukup baik
+Perempuan,63,Belum Menikah,Tidak,0,SMP,Ya,Serabutan,Tidak,1.500.000 - 3.000.000,Ya,Beras,Lainnya,Ya,Tidak ada
+Laki-laki,21,Duda/Janda,Tidak,0,SMA,Tidak,Tidak Bekerja,Ya,1.500.000 - 3.000.000,Ya,"Beras,uang,telor",Sepeda,Tidak,Tidak ada
+Laki-laki,33,Belum Menikah,Tidak,0,SD,Ya,Warung Kecil,Ya,1.500.000 - 3.000.000,Tidak,Tidak ada,Lainnya,Ya,Tidak ada
+Laki-laki,26,Belum Menikah,Tidak,0,SMA,Tidak,Tidak Bekerja,Ya,1.500.000 - 3.000.000,Tidak,Tidak ada,Lainnya,Tidak,Tidak ada
+Laki-laki,37,Belum Menikah,Tidak,0,SD,Tidak,Ibu Rumah Tangga,Tidak,500.000 - 1.500.000,Ya,BLT,Sepeda Motor,Tidak,Tidak ada
+Perempuan,67,Belum Menikah,Tidak,0,SMA,Ya,Buruh,Ya,500.000 - 1.500.000,Ya,BLT,Sepeda Motor,Tidak,Tidak ada
+Laki-laki,37,Belum Menikah,Tidak,0,SD,Tidak,Ibu Rumah Tangga,Ya,1.500.000 - 3.000.000,Ya,BLT,Sepeda Motor,Tidak,Tidak ada
+Laki-laki,43,Belum Menikah,Tidak,0,SD,Tidak,Ibu Rumah Tangga,Tidak,500.000 - 1.500.000,Ya,BLT,Sepeda Motor,Tidak,Tidak ada
+Laki-laki,52,Belum Menikah,Tidak,0,SMP,Tidak,Ibu Rumah Tangga,Ya,1.500.000 - 3.000.000,Tidak,-,Mobil,Tidak,Tidak ada
+Laki-laki,47,Menikah,Ya,3,SMA,Ya,Kepala Desa,Ya,3.000.000 - 4.500.000,Tidak,-,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,45,Menikah,Ya,2,Sarjana,Ya,Sekretaris Desa,Tidak,1.500.000 - 3.000.000,Tidak,-,Angkutan Umum,Tidak,Cukup baik
+Laki-laki,27,Belum Menikah,Tidak,0,Sarjana,Ya,Staff Desa,Tidak,1.500.000 - 3.000.000,Ya,Keluarga Sejahtera,Jalan Kaki,Tidak,Cukup baik
+Laki-laki,26,Menikah,Tidak,0,Sarjana,Ya,Staff Desa,Tidak,1.500.000 - 3.000.000,Tidak,-,Sepeda Motor,Tidak,Cukup baik
+Perempuan,45,Menikah,Ya,2,SMA,Ya,Staff Desa,Tidak,1.500.000 - 3.000.000,Tidak,-,Angkutan Umum,Tidak,Cukup baik
+Laki-laki,59,Menikah,Ya,3,SMA,Ya,Bappedas,Tidak,1.500.000 - 3.000.000,Tidak,-,Sepeda Motor,Ya,Cukup baik
+Laki-laki,47,Menikah,Ya,4,SMA,Ya,Wiraswasta,Ya,4.500.000 ke atas,Tidak,-,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,40,Menikah,Ya,2,Diploma,Ya,Pedagang,Ya,3.000.000 - 4.500.000,Tidak,-,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,73,Menikah,Ya,4,SD,Tidak,Tidak Bekerja,Ya,500.000 - 1.500.000,Tidak,-,Sepeda Motor,Ya,Cukup baik
+Laki-laki,62,Menikah,Ya,10,SD,Ya,Wiraswasta,Ya,1.500.000 - 3.000.000,Tidak,-,Sepeda Motor,Tidak,Cukup baik
+Laki-laki,34,Menikah,Ya,1,SMA,Ya,Usaha konter,Ya,4.500.000 ke atas,Ya,Sembako,Sepeda Motor,Tidak,Tidak ada
+Laki-laki,70,Menikah,Ya,2,SMP,Tidak,Tidak Bekerja,Ya,1.500.000 - 3.000.000,Tidak,-,Jalan Kaki,Ya,Tidak cukup baik
+Laki-laki,45,Menikah,Ya,3,SMA,Ya,Wirausaha,Ya,4.500.000 ke atas,Tidak,-,Sepeda Motor,Ya,Cukup baik
+Perempuan,28,Menikah,Ya,2,SMA,Ya,Wirausaha,Ya,500.000 - 1.500.000,Tidak,-,Sepeda Motor,Ya,Baik
+Perempuan,52,Duda/Janda,Ya,6,SD,Tidak,Tidak Bekerja,Tidak,500.000 - 1.500.000,Ya,"Bansos, BLT",Angkutan Umum,Tidak,Tidak cukup baik
+Laki-laki,41,Menikah,Ya,3,SMA,Ya,Tani,Ya,1.500.000 - 3.000.000,Tidak,-,Jalan Kaki,Tidak,Tidak cukup baik
+Laki-laki,68,Menikah,Tidak,0,Tidak Lulus SD,Ya,Buruh,Ya,500.000 - 1.500.000,Tidak,-,Angkutan Umum,Tidak,Baik
+Laki-laki,67,Menikah,Ya,3,SD,Ya,Tukang Tani,Ya,1.500.000 - 3.000.000,Ya,PKH,Sepeda Motor,Tidak,Tidak cukup baik
+Perempuan,40,Menikah,Ya,3,SD,Ya,Wiraswasta,Ya,500.000 - 1.500.000,Tidak,-,Angkutan Umum,Tidak,Tidak ada
+Perempuan,32,Menikah,Ya,2,SD,Tidak,Tidak Bekerja,Tidak,1.500.000 - 3.000.000,Tidak,-,Angkutan Umum,Ya,Tidak cukup baik
+Perempuan,27,Menikah,Ya,2,SMA,Tidak,Tidak Bekerja,Tidak,500.000 - 1.500.000,Tidak,-,Angkutan Umum,Ya,Cukup baik
+Perempuan,41,Menikah,Ya,2,Sarjana,Ya,Guru,Tidak,1.500.000 - 3.000.000,Ya,"Uang, Beras",Angkutan Umum,Ya,Cukup baik
+Laki-laki,30,Menikah,Ya,1,Sarjana,Ya,Perawat Desa,Tidak,3.000.000 - 4.500.000,Tidak,-,Sepeda Motor,Ya,Tidak ada
+Laki-laki,26,Menikah,Tidak,0,Sarjana,Ya,Guru,Tidak,1.500.000 - 3.000.000,Tidak,-,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,40,Menikah,Ya,2,SMP,Ya,Wiraswasta,Ya,3.000.000 - 4.500.000,Tidak,-,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,59,Menikah,Ya,2,SMA,Ya,Kepala desa,Ya,3.000.000 - 4.500.000,Tidak,,Sepeda Motor,Tidak,Tidak cukup baik
+Laki-laki,48,Menikah,Ya,3,SMA,Ya,Perangkat desa (KAUR),Ya,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Ya,Cukup baik
+Laki-laki,40,Menikah,Ya,2,SMA,Ya,Perangkat desa (Sekretaris),Ya,3.000.000 - 4.500.000,Tidak,,Mobil,Ya,Cukup baik
+Laki-laki,48,Menikah,Tidak,0,SMA,Ya,Perangkat desa (Kepala dusun),Ya,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Tidak,Cukup baik
+Laki-laki,42,Menikah,Ya,3,SMA,Ya,Perangkat desa (Kepala dusun),Tidak,1.500.000 - 3.000.000,Ya,"Dana bos, Santunan PT Tamaris",Sepeda Motor,Tidak,Cukup baik
+Perempuan,26,Menikah,Ya,1,Sarjana,Ya,Guru,Ya,500.000 - 1.500.000,Tidak,,Mobil,Tidak,Cukup baik
+Perempuan,41,Menikah,Ya,1,SMP,Tidak,Kader posyandu,Tidak,3.000.000 - 4.500.000,Tidak,,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,52,Menikah,Ya,2,SD,Ya,Petani,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Ya,Baik
+Perempuan,23,Menikah,Ya,1,SD,Ya,Warung,Ya,1.500.000 - 3.000.000,Tidak,,Angkutan Umum,Tidak,Baik
+Perempuan,39,Menikah,Ya,2,Sarjana,Ya,Guru,Tidak,500.000 - 1.500.000,Tidak,,Sepeda Motor,Tidak,Tidak cukup baik
+Perempuan,55,Menikah,Ya,4,SD,Ya,Gula Aren,Ya,500.000 - 1.500.000,Tidak,,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,20,Belum Menikah,Tidak,0,SMA,Ya,Karyawan Warung,Tidak,500.000 - 1.500.000,Tidak,,Sepeda Motor,Ya,Baik
+Perempuan,40,Menikah,Ya,1,SD,Ya,Warung,Ya,500.000 - 1.500.000,Tidak,,Sepeda Motor,Tidak,Cukup baik
+Laki-laki,15,Belum Menikah,Tidak,0,SMP,Tidak,Tidak Bekerja,Tidak,500.000 - 1.500.000,Ya,PIP,Sepeda Motor,Ya,Baik
+Laki-laki,50,Menikah,Ya,3,SD,Ya,Warung,Ya,500.000 - 1.500.000,Tidak,,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,29,Menikah,Ya,1,SMP,Ya,Pedagang keliling,Tidak,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Ya,Cukup baik
+Perempuan,43,Duda/Janda,Ya,2,SD,Ya,Petani,Ya,1.500.000 - 3.000.000,Ya,BLT corona,Sepeda Motor,Tidak,Baik
+Perempuan,37,Menikah,Ya,2,SD,Tidak,Tukang Bangunan (Suami),Tidak,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Tidak,Tidak cukup baik
+Perempuan,27,Menikah,Ya,1,SMP,Ya,Jualan seblak dan minuman dingin,Ya,3.000.000 - 4.500.000,Tidak,,Sepeda Motor,Ya,Cukup baik
+Perempuan,45,Duda/Janda,Tidak,2,SD,Ya,Warung,Ya,500.000 - 1.500.000,Ya,"Sembako, Obat-obatan (Pribadi)",Sepeda Motor,Tidak,Baik
+Perempuan,35,Menikah,Ya,2,Diploma,Ya,Bidan,Tidak,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Tidak,Baik
+Laki-laki,42,Menikah,Ya,2,SD,Ya,Penjahit,Ya,1.500.000 - 3.000.000,Ya,Dana bos,Sepeda Motor,Ya,Cukup baik
+Perempuan,49,Menikah,Ya,3,SMA,Ya,Petani dan Pengelola PAUD,Ya,500.000 - 1.500.000,Tidak,,Sepeda Motor,Ya,Baik
+Laki-laki,23,Menikah,Ya,1,SMA,Ya,Karyawan Zhongmin,Ya,3.000.000 - 4.500.000,Ya,BLT,Sepeda Motor,Ya,Tidak cukup baik
+Laki-laki,32,Menikah,Ya,1,SMA,Ya,Bengkel,Ya,1.500.000 - 3.000.000,Tidak,,Sepeda Motor,Ya,Cukup baik
+Laki-laki,43,Menikah,Ya,4,Sarjana,Ya,Kepala desa,Tidak,4.500.000 ke atas,Tidak,-,Sepeda Motor,Tidak,Baik
+Laki-laki,38,Menikah,Ya,1,Sarjana,Ya,Staff desa,Ya,4.500.000 ke atas,Tidak,-,Sepeda Motor,Tidak,Tidak cukup baik
+Perempuan,27,Menikah,Ya,2,SMA,Ya,Staff desa,Tidak,1.500.000 - 3.000.000,Tidak,-,Sepeda Motor,Tidak,Baik
+Perempuan,35,Menikah,Ya,1,Sarjana,Ya,Staff desa,Tidak,1.500.000 - 3.000.000,Tidak,-,Sepeda Motor,Tidak,Baik
+Laki-laki,52,Menikah,Ya,2,SD,Ya,Linmas,Tidak,500.000 - 1.500.000,Tidak,-,Sepeda Motor,Ya,Baik
+Perempuan,45,Menikah,Ya,2,SD,Ya,Pedagang,Tidak,1.500.000 - 3.000.000,Ya,Bulog,Sepeda Motor,Ya,Cukup baik
+Laki-laki,35,Duda/Janda,Ya,1,SMP,Ya,Buruh tani,Tidak,500.000 - 1.500.000,Ya,"Bulog, Blt",Sepeda Motor,Ya,Baik
+Laki-laki,35,Menikah,Ya,1,SD,Ya,Buruh tani,Tidak,500.000 - 1.500.000,Tidak,-,Sepeda Motor,Ya,Baik
+Laki-laki,35,Menikah,Ya,1,SMP,Ya,Buruh tani dan Buruh Pt,Tidak,1.500.000 - 3.000.000,Ya,BLT,Sepeda Motor,Ya,Baik
+Perempuan,40,Menikah,Ya,3,SD,Ya,Pedagang,Ya,1.500.000 - 3.000.000,Tidak,-,Sepeda Motor,Tidak,Baik
+Laki-laki,45,Menikah,Ya,5,SD,Ya,Pedagang,Ya,1.500.000 - 3.000.000,Ya,Bulog,Sepeda Motor,Tidak,Cukup baik
+Perempuan,60,Menikah,Ya,9,Tidak Lulus SD,Ya,Petani,Tidak,500.000 - 1.500.000,Ya,Bulog,Sepeda Motor,Tidak,Cukup baik
+Perempuan,37,Menikah,Ya,1,SD,Ya,Buruh tani,Tidak,1.500.000 - 3.000.000,Ya,Bolog,Sepeda Motor,Tidak,Cukup baik
+Perempuan,33,Menikah,Ya,3,SD,Tidak,Ibu Rumah Tangga,Tidak,1.500.000 - 3.000.000,Ya,Bulog,Sepeda Motor,Ya,Cukup baik
+Perempuan,60,Menikah,Ya,3,SD,Tidak,Ibu Rumah Tangga,Ya,1.500.000 - 3.000.000,Ya,Bulog,Sepeda Motor,Tidak,Cukup baik
+Perempuan,48,Menikah,Ya,2,Tidak Lulus SD,Tidak,Ibu Rumah Tangga,Ya,500.000 - 1.500.000,Ya,"Bulog, Blt",Sepeda Motor,Tidak,Cukup baik
+Perempuan,54,Menikah,Ya,6,SD,Tidak,Ibu Rumah Tangga,Tidak,500.000 - 1.500.000,Ya,Bulog,Jalan Kaki,Tidak,Cukup baik
+Perempuan,45,Menikah,Ya,4,SD,Tidak,Ibu Rumah Tangga,Tidak,500.000 - 1.500.000,Ya,Bulog,Jalan Kaki,Ya,Cukup baik
+Perempuan,45,Menikah,Ya,2,SD,Tidak,Ibu Rumah Tangga,Tidak,500.000 - 1.500.000,Ya,Bulog,Jalan Kaki,Tidak,Baik
+Perempuan,39,Menikah,Ya,2,SD,Ya,Buruh tani,Ya,500.000 - 1.500.000,Ya,"Bulog, Blt",Sepeda Motor,Tidak,Cukup baik
+Laki-laki,38,Menikah,Ya,2,SD,Ya,Buruh tani,Tidak,500.000 - 1.500.000,Ya,"Bulog, Blt",Sepeda Motor,Tidak,Baik
+Perempuan,50,Menikah,Ya,2,SD,Tidak,Ibu Rumah Tangga,Ya,500.000 - 1.500.000,Tidak,-,Sepeda Motor,Tidak,Baik
+Perempuan,36,Menikah,Ya,2,SD,Tidak,Ibu Rumah Tangga,Tidak,500.000 - 1.500.000,Ya,BLT,Sepeda Motor,Ya,Baik
+Laki-laki,73,Menikah,Ya,4,SD,Ya,Linmas,Tidak,500.000 - 1.500.000,Ya,Bulog,Jalan Kaki,Tidak,Baik
+Laki-laki,37,Menikah,Ya,1,SD,Ya,Buruh tani,Ya,500.000 - 1.500.000,Ya,Bulog,Sepeda Motor,Tidak,Baik
