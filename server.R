@@ -111,7 +111,7 @@ server <- function(input, output, session){
         dom = "lrtip",
         lengthMenu = c(5, 1000)
       ))
-    }, server = FALSE)
+    })
     
     # Save the modified DataFrame back to the CSV file
     write.csv(dt, "sikd_gabung.csv", row.names = FALSE)
